@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58a0c615.css",
+    "main.js": "/static/js/main.b51633a8.js",
+    "static/media/aws.png": "/static/media/aws.ad1d61c7ee0ced2a0a32.png",
+    "static/media/HeroImg.jpeg": "/static/media/HeroImg.7f3adb72ad6beefc170c.jpeg",
+    "static/media/davvweb.png": "/static/media/davvweb.bf486cd6630ea7f6d691.png",
+    "static/media/housetechweb.png": "/static/media/housetechweb.091342035977b1b129c4.png",
+    "static/media/iips.png": "/static/media/iips.1dbafff5d7556645cbc5.png",
+    "static/media/cog.jpg": "/static/media/cog.15c475202a6c87fc7b65.jpg",
+    "static/media/school.png": "/static/media/school.e93fb6af3a976882b5a8.png",
+    "index.html": "/index.html",
+    "main.58a0c615.css.map": "/static/css/main.58a0c615.css.map",
+    "main.b51633a8.js.map": "/static/js/main.b51633a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.b51633a8.js"
+  ]
+}
