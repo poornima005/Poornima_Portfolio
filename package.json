@@ -1,7 +1,6 @@
 {
   "name": "3d-portfolio-website",
   "version": "0.1.1",
-  "homepage": "https://github.com/poornima005/Poornima_Portfolio.git",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
